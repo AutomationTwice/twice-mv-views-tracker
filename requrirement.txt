@@ -1,0 +1,5 @@
+functions-framework==3.*
+gspread
+outh2client
+google-api-python-client
+pytz
