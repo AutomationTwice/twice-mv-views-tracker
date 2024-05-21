@@ -42,11 +42,11 @@ The Looker Studio dashboard provides visual insights into the view counts. Below
 ### Screenshot 1: Google Sheet Datasheet
 ![Google Sheet Datasheet](screenshots/Screenshot1.png)
 
-### Screenshot 2: Views Distibution
-![Views Distibution](screenshots/Screenshot2.png)
+### Screenshot 2: Weekly Trend Graph
+![Weekly Trend Graph](screenshots/Screenshot2.png)
 
-### Screenshot 3: Weekly Trend Graph
-![Weekly Trend](screenshots/Screenshot3.png)
+### Screenshot 3: Views Distibution
+![Views Distibution](screenshots/Screenshot3.png)
 
 ## Contribution
 
