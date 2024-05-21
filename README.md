@@ -39,14 +39,14 @@ This project uses the YouTube API to fetch daily view counts for Twice's MVs and
 
 The Looker Studio dashboard provides visual insights into the view counts. Below are some screenshots of the dashboard:
 
-### Screenshot 1: Overview of All MVs
+### Screenshot 1: Google Sheet Datasheet
 ![Google Sheet Datasheet](screenshots/Screenshot1.png)
 
-### Screenshot 2: Most Viewed MV
-![Weekly Trend](screenshots/Screenshot2.png)
+### Screenshot 2: Views Distibution
+![Views Distibution](screenshots/Screenshot2.png)
 
 ### Screenshot 3: Weekly Trend Graph
-![Views Distibution](screenshots/Screenshot3.png)
+![Weekly Trend](screenshots/Screenshot3.png)
 
 ## Contribution
 
