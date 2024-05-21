@@ -21,3 +21,4 @@ This project uses the YouTube API to fetch daily view counts for Twice's MVs and
   pip install -r requirements.txt
 
 3. Set up your Google Cloud credentials and YouTube API key.
+![Alt text](/relative/path/to/screenshot1.png?raw=true "Google Sheets")
