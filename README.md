@@ -5,6 +5,7 @@ A project to track and analyze YouTube views for Twice's music videos.
 ## Overview
 
 This project uses the YouTube API to fetch daily view counts for Twice's MVs and stores the data in Google Sheets. The data is visualized using Looker Studio.
+YouTube API uses Video_ID stored in the google sheet doc which can be updated with new IDs for new releases as required.
 
 ## Project Structure
 
